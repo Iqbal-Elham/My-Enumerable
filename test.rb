@@ -1,17 +1,21 @@
 require_relative 'my_list'
 
-# Create our list
+# Create my list instance
 list = MyList.new(1, 2, 3, 4)
-# Test #all?
+# <MyList: @list=[1, 2, 3, 4]>
+
+# Test the all method
 puts(list.all? { |e| e < 5 })
 # true
 puts(list.all? { |e| e > 5 })
 # false
-# Test #any?
+
+# Test the any method
 puts(list.any? { |e| e == 2 })
 # true
 puts(list.any? { |e| e == 5 })
 # false
-# Test #filter
+
+# Test the filter method
 puts(list.filter(&:even?))
 # [2, 4]
