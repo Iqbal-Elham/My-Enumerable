@@ -32,7 +32,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Decode Morse <a name="about-project"></a>
+# 📖 Enumerable app <a name="about-project"></a>
 
 > Enumerable Ruby App.
 
@@ -52,7 +52,7 @@
 
 <!-- > Describe between 1-3 key features of the application. -->
 
-- **Decode Morse messages**
+- **Enumerable app messages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,7 +79,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Feliverse/code-morse-decoder.git
+  git clone https://github.com/iqbal-elham/my-enumerable.git
 ```
 
 ### Install
@@ -138,7 +138,7 @@ Example command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Feliverse/code-morse-decoder/issues).
+Feel free to check the [issues page](https://github.com/iqbal-elham/my-enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
